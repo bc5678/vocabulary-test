@@ -1,0 +1,3 @@
+stash	藏匿、藏匿物
+test	測試
+kill	殺
