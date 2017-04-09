@@ -1,3 +1,26 @@
 stash	藏匿、藏匿物
-test	測試
-kill	殺
+miscellaneous	雜項、各式各樣的
+lineup	陣容、列隊
+mascot	吉祥物
+chimney	煙囪
+commune	社區
+athlete	運動員
+geode	晶洞
+be used to	習慣於
+get used to	逐漸習慣於
+used to be	曾是、曾經是
+vosel	母音、原音
+consonant	子音、輔音
+syllable	音節
+phonetics	語音學
+someone else	其他人
+needle	針
+sting	刺痛
+thorn	荊棘、刺
+crown	皇冠
+beneath	在...下面
+stains	玷污、沾污、污點、污漬
+upon	在...上面
+articulation	咬字、發音方式
+transcription	抄本、謄本、謄寫
+yolk	蛋黃
